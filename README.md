@@ -106,7 +106,7 @@ Sistema para facilitar o agendamento de consultas médicas para idosos, que gera
 
 ---
 
-### BAIXA PRIORIDADE (Extras)
+### BAIXA PRIORIDADE 
 
 | ID | Tarefa | Descrição |
 |----|------|----------|
