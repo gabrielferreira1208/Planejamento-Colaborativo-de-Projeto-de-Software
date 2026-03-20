@@ -67,7 +67,7 @@ Sistema para facilitar o agendamento de consultas médicas para idosos, que gera
 
 ---
 
-### ALTA PRIORIDADE (Essencial)
+### ALTA PRIORIDADE (o essencial)
 
 | ID | Tarefa | Descrição |
 |----|------|----------|
