@@ -28,3 +28,6 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 
 ### 8. Histórico de consultas
 * **Descrição da solução planejada:** Desenvolver uma tela no painel do paciente dividida em duas abas: "Consultas Futuras" e "Consultas Realizadas". O sistema fará uma busca no banco de dados vinculada ao ID do usuário para listar o histórico médico de forma organizada.
+
+### 9. Validação de dados nos formulários
+* **Descrição da solução planejada:** Implementar regras de validação no frontend para todos os formulários do sistema (cadastro, edição de perfil, agendamento). O objetivo é garantir que os campos obrigatórios sejam preenchidos corretamente (ex: formato de e-mail válido, senhas fortes, CPF e números de telefone corretos) antes de enviar a requisição para o banco de dados, prevenindo erros no sistema e melhorando a segurança.
