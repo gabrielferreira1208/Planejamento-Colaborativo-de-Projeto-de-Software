@@ -101,3 +101,17 @@ Pensando no público idoso, a interface será clara e objetiva, com botões bem 
 Também será considerada a possibilidade de um responsável visualizar e gerenciar o perfil do idoso, facilitando o uso do aplicativo em situações de necessidade.
 
 O objetivo dessa funcionalidade é permitir que o usuário tenha controle sobre suas informações dentro do sistema, mantendo seus dados atualizados e melhorando sua experiência no aplicativo.
+
+## Tarefa: Criar cadastro de especialidade
+
+No sistema EasySênior, será criada uma funcionalidade para cadastro de especialidades médicas, permitindo organizar os tipos de atendimento disponíveis no aplicativo.
+
+O cadastro incluirá o nome da especialidade, como cardiologia, ortopedia, dermatologia, entre outras, podendo também conter uma breve descrição para melhor identificação.
+
+Essas informações serão inseridas e gerenciadas por administradores do sistema, garantindo padronização e evitando duplicidade de dados.
+
+Após o cadastro, as especialidades estarão disponíveis para associação com os médicos cadastrados e para utilização nos filtros de busca dentro do aplicativo.
+
+O sistema também realizará validações para evitar erros, como cadastro de especialidades repetidas ou com nomes incorretos.
+
+O objetivo dessa funcionalidade é estruturar corretamente as áreas de atendimento do sistema, facilitando a organização dos médicos e melhorando a experiência de busca dos usuários.
