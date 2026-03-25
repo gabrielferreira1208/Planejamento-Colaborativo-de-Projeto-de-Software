@@ -23,3 +23,15 @@ Também será possível que um responsável realize o cadastro em nome do idoso,
 Após o preenchimento, o sistema validará os dados e, caso estejam corretos, criará a conta do usuário, permitindo acesso ao aplicativo.
 
 O objetivo dessa funcionalidade é garantir um processo de entrada no sistema simples, rápido e acessível, reduzindo dificuldades para usuários com pouca familiaridade com tecnologia.
+
+## Tarefa: Exibir consultas agendadas
+
+No menu principal do aplicativo EasySênior, haverá uma opção chamada "Minhas Consultas", de fácil acesso e visualização. Ao clicar, o usuário será direcionado para uma tela que exibe todas as consultas já agendadas.
+
+As consultas serão apresentadas em formato de lista, mostrando informações como nome do médico, especialidade, data, horário e local do atendimento. Cada item será exibido de forma clara e organizada, com destaque para a próxima consulta.
+
+O sistema também poderá diferenciar consultas futuras e passadas, facilitando o entendimento do usuário. Além disso, haverá a possibilidade de visualizar mais detalhes ao clicar em uma consulta específica.
+
+Pensando no público idoso, a interface será simples, com letras grandes, boa organização visual e uso de cores para facilitar a identificação das informações.
+
+O objetivo dessa funcionalidade é permitir que o usuário acompanhe facilmente suas consultas, evitando esquecimentos e melhorando sua organização no dia a dia.
