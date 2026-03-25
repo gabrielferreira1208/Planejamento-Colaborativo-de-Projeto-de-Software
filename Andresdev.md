@@ -115,3 +115,17 @@ Após o cadastro, as especialidades estarão disponíveis para associação com 
 O sistema também realizará validações para evitar erros, como cadastro de especialidades repetidas ou com nomes incorretos.
 
 O objetivo dessa funcionalidade é estruturar corretamente as áreas de atendimento do sistema, facilitando a organização dos médicos e melhorando a experiência de busca dos usuários.
+
+## Tarefa: Criar listagem de médicos
+
+No aplicativo EasySênior, será criada uma tela de listagem de médicos, onde os usuários poderão visualizar todos os profissionais disponíveis para atendimento.
+
+Os médicos serão exibidos em formato de lista, contendo informações como nome, especialidade, localização e disponibilidade de horários. Cada item será organizado de forma clara e objetiva, facilitando a leitura.
+
+O usuário poderá navegar pela lista de maneira simples, podendo selecionar um médico para visualizar mais detalhes ou iniciar um agendamento.
+
+Pensando no público idoso, a interface será limpa, com letras grandes, bom espaçamento entre os elementos e uso de cores para destacar informações importantes.
+
+O sistema também será preparado para integrar filtros e ordenações, permitindo uma experiência mais personalizada na busca por médicos.
+
+O objetivo dessa funcionalidade é permitir que o usuário encontre facilmente profissionais disponíveis, tornando o processo de escolha mais rápido e acessível.
