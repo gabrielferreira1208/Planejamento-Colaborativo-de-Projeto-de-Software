@@ -13,3 +13,6 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 
 ### 3. Mensagens claras de erro ou de sucesso
 * **Descrição da solução planejada:** Padronizar o feedback visual (UI/UX) do sistema. Planejar a implementação de alertas temporários (toasts ou pop-ups) nas cores verde (sucesso, ex: "Consulta agendada!") e vermelho (erro, ex: "Horário indisponível!"), melhorando a comunicação com o usuário após cada ação.
+
+### 4. Botões grandes pros usuários
+* **Descrição da solução planejada:** Focar na acessibilidade e na responsividade do sistema (mobile-first). Planejar a estilização CSS de botões de ação (Call to Action) com tamanhos adequados para toque em telas de celular, facilitando o uso por pacientes com dificuldades motoras ou visuais.
