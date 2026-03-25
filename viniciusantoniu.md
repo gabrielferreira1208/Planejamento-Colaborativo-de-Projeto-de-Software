@@ -31,3 +31,6 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 
 ### 9. Validação de dados nos formulários
 * **Descrição da solução planejada:** Implementar regras de validação no frontend para todos os formulários do sistema (cadastro, edição de perfil, agendamento). O objetivo é garantir que os campos obrigatórios sejam preenchidos corretamente (ex: formato de e-mail válido, senhas fortes, CPF e números de telefone corretos) antes de enviar a requisição para o banco de dados, prevenindo erros no sistema e melhorando a segurança.
+
+### 10. Configurações de cores e texto de alto contraste (acessibilidade)
+* **Descrição da solução planejada:** Desenvolver uma funcionalidade de acessibilidade que permita ao usuário alternar o sistema para um "Modo de Alto Contraste". Isso envolverá a criação de variáveis CSS específicas para alterar a paleta de cores da interface (fundo e texto), garantindo que a informação na tela seja facilmente legível para pacientes com visão reduzida.
