@@ -47,3 +47,17 @@ A navegação será pensada para exigir o menor número possível de passos, com
 Também será considerada a possibilidade de uso por responsáveis, garantindo que o sistema seja fácil tanto para idosos quanto para familiares.
 
 O objetivo dessa funcionalidade é proporcionar uma experiência confortável, simples e eficiente, permitindo que usuários com pouca familiaridade com tecnologia consigam utilizar o aplicativo sem dificuldades.
+
+## Tarefa: Criar cadastro de médicos
+
+No sistema EasySênior, será criada uma funcionalidade para cadastro de médicos, permitindo que seus dados sejam adicionados à plataforma de forma organizada.
+
+O cadastro incluirá informações como nome completo, especialidade, número de registro (CRM), telefone, endereço do consultório e horários disponíveis para atendimento.
+
+Esses dados poderão ser inseridos por administradores do sistema ou pela própria equipe responsável pela gestão dos profissionais cadastrados.
+
+Após o cadastro, os médicos ficarão disponíveis para visualização e agendamento pelos usuários do aplicativo, sendo exibidos de forma clara e organizada.
+
+Pensando no funcionamento do sistema, as informações serão validadas para evitar erros e garantir consistência nos dados apresentados.
+
+O objetivo dessa funcionalidade é estruturar a base de profissionais disponíveis no aplicativo, permitindo que os usuários encontrem e agendem consultas com facilidade.
