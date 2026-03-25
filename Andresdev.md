@@ -61,3 +61,15 @@ Após o cadastro, os médicos ficarão disponíveis para visualização e agenda
 Pensando no funcionamento do sistema, as informações serão validadas para evitar erros e garantir consistência nos dados apresentados.
 
 O objetivo dessa funcionalidade é estruturar a base de profissionais disponíveis no aplicativo, permitindo que os usuários encontrem e agendem consultas com facilidade.
+
+## Tarefa: Criar filtro por especialidade
+
+Na tela de listagem de médicos do aplicativo EasySênior, haverá uma opção de filtro por especialidade, posicionada de forma visível e de fácil acesso.
+
+Ao selecionar o filtro, o usuário poderá escolher entre diferentes especialidades médicas, como cardiologia, ortopedia, dermatologia, entre outras. Após a seleção, o sistema exibirá apenas os médicos que correspondem à especialidade escolhida.
+
+O processo será simples e direto, permitindo que o usuário encontre rapidamente o profissional desejado sem precisar navegar por uma lista extensa.
+
+Pensando no público idoso, o filtro será apresentado com botões grandes e nomes claros, evitando termos técnicos complicados e facilitando a compreensão.
+
+O objetivo dessa funcionalidade é agilizar a busca por médicos, tornando o processo mais eficiente e reduzindo o esforço necessário para encontrar o atendimento adequado.
