@@ -87,3 +87,17 @@ Pensando no público idoso, a interface de login será simples, com poucos campo
 Além disso, a opção "Esqueci minha senha" estará disponível para auxiliar na recuperação de acesso.
 
 O objetivo dessa funcionalidade é garantir um acesso seguro e acessível ao sistema, permitindo que o usuário utilize todas as funcionalidades do aplicativo de forma prática
+
+## Tarefa: Criar perfil do usuário
+
+Dentro do aplicativo EasySênior, será criada uma tela de perfil do usuário, onde será possível visualizar e editar suas informações pessoais de forma simples e organizada.
+
+Nessa tela, o usuário poderá acessar dados como nome, idade, telefone e informações de acesso. Também será possível atualizar esses dados caso necessário, garantindo que as informações estejam sempre corretas.
+
+O sistema permitirá edições de forma segura, validando os dados inseridos antes de salvar qualquer alteração.
+
+Pensando no público idoso, a interface será clara e objetiva, com botões bem destacados para edição e salvamento, além de instruções simples para orientar o usuário durante o processo.
+
+Também será considerada a possibilidade de um responsável visualizar e gerenciar o perfil do idoso, facilitando o uso do aplicativo em situações de necessidade.
+
+O objetivo dessa funcionalidade é permitir que o usuário tenha controle sobre suas informações dentro do sistema, mantendo seus dados atualizados e melhorando sua experiência no aplicativo.
