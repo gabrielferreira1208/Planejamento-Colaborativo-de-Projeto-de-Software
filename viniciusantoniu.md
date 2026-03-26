@@ -12,7 +12,7 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 * **Descrição da solução planejada:** Desenvolver um campo de pesquisa na tela principal com filtros. O usuário poderá buscar médicos por "Nome", "Especialidade" (ex: Cardiologista, Pediatra) ou "Disponibilidade". O sistema deverá consultar o banco de dados e retornar uma lista em formato de cards.
 
 ### 3. Mensagens claras de erro ou de sucesso
-* **Descrição da solução planejada:** Padronizar o feedback visual (UI/UX) do sistema. Planejar a implementação de alertas temporários (toasts ou pop-ups) nas cores verde (sucesso, ex: "Consulta agendada!") e vermelho (erro, ex: "Horário indisponível!"), melhorando a comunicação com o usuário após cada ação.
+* **Descrição da solução planejada:** Padronizar o feedback visual UX (User Experience) e UI (User Interface) do sistema. Planejar a implementação de alertas temporários (toasts ou pop-ups) nas cores verde (sucesso, ex: "Consulta agendada!") e vermelho (erro, ex: "Horário indisponível!"), melhorando a comunicação com o usuário após cada ação.
 
 ### 4. Botões grandes pros usuários
 * **Descrição da solução planejada:** Focar na acessibilidade e na responsividade do sistema (mobile-first). Planejar a estilização CSS de botões de ação (Call to Action) com tamanhos adequados para toque em telas de celular, facilitando o uso por pacientes com dificuldades motoras ou visuais.
