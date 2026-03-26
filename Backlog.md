@@ -1,5 +1,10 @@
 ## Backlog de Tarefas
 
+# Backlog do Projeto - EasySênior
+
+## Product Owner
+Gabriel Dufech Ferreira
+
 ---
 
 ### ALTA PRIORIDADE (o essencial)
