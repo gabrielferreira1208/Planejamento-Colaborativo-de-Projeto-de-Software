@@ -50,11 +50,7 @@ O projeto será desenvolvido utilizando:
 ## Status do Projeto
 * Em fase de planejamento...
 
---- --- --- --- --- --- --- --- --- --- --- --- ---
-# Backlog do Projeto - EasySênior
-
-## Product Owner
-Gabriel Dufech Ferreira 
+--- --- --- --- --- --- --- --- --- --- --- --- ---  
 
 ---
 
